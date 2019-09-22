@@ -1,0 +1,33 @@
+1.Function to print the avg of product of n natural numbers
+2.Function to find the factorial of a given number
+3.Function to find the sum of the factorial of numbers upto the given range
+4.Function to find the fibanocci series upto n terms
+5.Function to find the whether the given number is palindrome number or not
+6.Function to find the sum of the squares of the n natural numbers
+7.Function to print all the prime numbers b/w the given range
+8.Function to print the sum of the even perfect numbers in the range 1,1000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
