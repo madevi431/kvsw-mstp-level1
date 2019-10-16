@@ -1,0 +1,3 @@
+kvsw,99634059,78,67,ece,civil
+cse,ece,civil
+,mcjdscbjcn
